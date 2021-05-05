@@ -1,9 +1,7 @@
 <?php
 
-//Write a program that displays a different message based on time of day. For-example, page should display 
-//“Good Morning” if it is accessed in the morning. 
-
 //change the message to what you want
+
 $afternoon ="Good Afternoon";
 $evening ="Good Evening";
 $late ="Working late";
