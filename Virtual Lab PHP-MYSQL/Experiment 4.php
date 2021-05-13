@@ -17,5 +17,4 @@ do{
 echo "\n Total Positive numbers entered :", $count_positive ;
 echo "\n Total negative numbers entered :", $count_negative ; 
 echo "\n Total Zeroes entered :", $count_zeroes;
-
 ?>
