@@ -12,8 +12,8 @@ do{
     else
     $count_zeroes++;
     $Num = readline("Do you want to Continue(y/n)?");
-
 }while($Num =='a');
+
 echo "\n Total Positive numbers entered :", $count_positive ;
 echo "\n Total negative numbers entered :", $count_negative ; 
 echo "\n Total Zeroes entered :", $count_zeroes;
